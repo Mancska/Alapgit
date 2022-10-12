@@ -1,3 +1,28 @@
 body{
-    background-color: red;
+    background-color: rgb(52, 16, 184);
+    
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+.wrapper{
+    background-color: lightblue;
+}
+p{
+    text-align: justify;
+    color: blue;
+}
+.jobb img{
+    float: right;
+}
+.bal img{
+    float: left;
+}
+.torol{
+    clear: both;
+
 }
